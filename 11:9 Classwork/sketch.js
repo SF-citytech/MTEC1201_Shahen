@@ -1,4 +1,4 @@
-// Shahen, hyperspace, have fun
+// Shahen, hyperspace circle chase, have fun
 let size = 50;
 let x, y;
 let lastChange = 0;
